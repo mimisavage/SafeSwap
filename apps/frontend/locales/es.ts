@@ -303,7 +303,7 @@ export const es = {
 		title: "Explora nuestras colecciones",
 		viewAll: "Ver todas las categorías",
 		newCollection: "NUEVA COLECCIÓN",
-		performance: "Performance",
+		performance: "Rendimiento",
 		performanceDescription:
 			"Descubre nuestra nueva línea de calzado diseñado para superar tus límites y alcanzar tu máximo rendimiento.",
 		exploreCollection: "Explorar colección",
